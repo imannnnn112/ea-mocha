@@ -278,8 +278,8 @@ export const PRODUCT_INFO = {
   flavor: 'Kopi & Cokelat Creamy',
   servingTemp: 'Dingin / Es (Ice Cold 2°C - 5°C)',
   freshness: 'Paling nikmat diminum langsung dalam 4-6 jam',
-  whatsappNumber: '08XXXXXXXXXX',
-  whatsappRaw: '6281234567890',
+  whatsappNumber: '6285741425333',
+  whatsappRaw: '6285741425333',
   outletAddress: 'Jl. Kopi Harum No. 18, Pusat Kota',
   openingHours: 'Setiap Hari: 09:00 - 22:00 WIB',
 };
