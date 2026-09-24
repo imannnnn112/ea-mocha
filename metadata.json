@@ -1,0 +1,6 @@
+{
+  "name": "Es Mocha - Segar, Creamy, & Nikmat",
+  "description": "Website resmi Es Mocha: Minuman kopi cokelat creamy, manis, dan menyegarkan dengan perpaduan espresso pilihan dan cokelat premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
