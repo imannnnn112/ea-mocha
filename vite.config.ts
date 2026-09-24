@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/ea mocha/',
+    base: '/ea-mocha/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
